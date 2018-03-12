@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "673449216942",
+    "firebase_url": "https://smart-door-caafe.firebaseio.com",
+    "project_id": "smart-door-caafe",
+    "storage_bucket": "smart-door-caafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673449216942:android:dc2cba5ab67a773f",
+        "android_client_info": {
+          "package_name": "com.example.weera.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673449216942-o2ici34q1s0rp22bb72e6bim0l57771j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weera.myapplication",
+            "certificate_hash": "84b39faf01007faa0bb7815f9517ba3fce68ed50"
+          }
+        },
+        {
+          "client_id": "673449216942-pd7l2998nnrnt5f5bklv5emnucc1pc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ_ZxKYVAJOYKP9hDSqwJ0E7x50K5KWh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673449216942-pd7l2998nnrnt5f5bklv5emnucc1pc77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673449216942:android:5fd235fb99877c72",
+        "android_client_info": {
+          "package_name": "com.example.weera.smart_door"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673449216942-pd7l2998nnrnt5f5bklv5emnucc1pc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ_ZxKYVAJOYKP9hDSqwJ0E7x50K5KWh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
